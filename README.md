@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Ahmed
 
-<!--
-**Ehmii2001/Ehmii2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science Student  
+📊 Learning through free certified courses and hands-on practice
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+
+- **Python for Data Science** – Cognitive Class (IBM)  
+  🔗 [View Certificate](certificates/PythonDSCognitiveClass.pdf)
+
+<!-- Future certificates placeholders -->
+- **Data Analysis with Python** – Cognitive Class (IBM)  
+  🔗 [View Certificate](certificates/Data_Analysis_with_Python_CognitiveClass.pdf)
+- **Kaggle Python Badge** – Kaggle Learn  
+  🔗 [View Badge](certificates/Kaggle_Python_Badge.pdf)
+- **Kaggle Pandas Badge** – Kaggle Learn  
+  🔗 [View Badge](certificates/Kaggle_Pandas_Badge.pdf)
+
+---
+
+## 🔧 Skills
+
+- Python  
+- Data Analysis  
+- Pandas  
+- NumPy  
+- Data Visualization (Matplotlib / Seaborn)  
+
+---
+
+## 🌱 Currently Learning
+
+- Data Analysis with Python  
+- Kaggle Learn micro-courses (Python, Pandas, SQL, Data Cleaning)  
+
+---
+
+## 📫 Contact
+
+- GitHub: [https://github.com/Ehmii2001](https://github.com/Ehmii2001)  
+- Email: ahmednuman3044@gmail.com
