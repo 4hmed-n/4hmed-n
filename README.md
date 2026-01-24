@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Ahmed
 
 🎓 BS Data Science Student  
-📊 Learning through free certified courses and hands-on practice
+📊 Building my skills through hands-on practice and free certified courses
 
 ---
 
