@@ -12,7 +12,7 @@
 
 <!-- Future certificates placeholders -->
 - **Data Analysis with Python** – Cognitive Class (IBM)  
-  🔗 [View Certificate](certificates/Data_Analysis_with_Python_CognitiveClass.pdf)
+  🔗 [View Certificate](certificates/DataAnalysisWithPython_CognitiveClass.pdf)
 - **Kaggle Python Badge** – Kaggle Learn  
   🔗 [View Badge](certificates/Kaggle_Python_Badge.pdf)
 - **Kaggle Pandas Badge** – Kaggle Learn  
